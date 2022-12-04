@@ -13,6 +13,7 @@ used Custom Injector to achieve loose coupling.
 As a user you can register yourself as a driver.
 After registration, you will be able to log in (using login and password) and see information 
 about another drivers, cars, drivers cars, assign driver to a car. 
+
 After logging, driver can do next activites:
 1. Add new, delete, update cars and manufacturers
 2. Register new drivers
