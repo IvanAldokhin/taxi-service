@@ -6,11 +6,12 @@ This is a prototype of taxi service.
 
 This project was created with the aim to show my skills in Java,
 OOP and SOLID principles, JDBC, Web.
+
 The project is written using N-tier architecture,
 used Custom Injector to achieve loose coupling.
+
 As a user you can register yourself as a driver.
-After registration, you will be able 
-to log in (using login and password) and see information 
+After registration, you will be able to log in (using login and password) and see information 
 about another drivers, cars, drivers cars, assign driver to a car. 
 After logging, driver can do next activites:
 1. Add new, delete, update cars and manufacturers
@@ -18,11 +19,6 @@ After logging, driver can do next activites:
 3. Display all cars, drivers and manufacturers of our service
 4. Display your cars as a driver
 5. Link existing cars to your driver
-
-# Table of contents
-- <a href="README.md:21">Project structure</a>
-- <a href="README.md:27">Technologies</a>
-- <a href="README.md:36">How to start the application</a>
 
 # <h2>Project structure:</h2>
 The structure of this taxi-service consists of 3 levels:
