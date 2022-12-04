@@ -38,7 +38,7 @@ The structure of this taxi-service consists of 3 levels:
 8. Maven
 
 # <h2>How to start the application</h2>
-Your have 2 options run the app:
+You have 2 options run the app:
 * install MySQL
 * Install and configure Local Tomcat 9.0.50 Server
 (set "/" in Deployment - taxi-service:war exploded).
