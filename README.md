@@ -1,6 +1,7 @@
 # <h1>Taxi-Service</h1>
 
 ![](taxi.gif)
+
 This is a prototype of taxi service.
 
 This project was created with the aim to show my skills in Java,
