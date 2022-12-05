@@ -28,14 +28,15 @@ The structure of this taxi-service consists of 3 levels:
 3. Presentation layer (controllers)
 
 # <h2>Technologies</h2>
-1. Apache Tomcat 9.0.50 (to run app locally)
-2. MySQL
-3. JDBC
-4. Javax servlet API
-5. JSP
-6. JSTL
-7. HTML, CSS
-8. Maven
+1. Java 11
+2. Apache Tomcat 9.0.50 (to run app locally)
+3. MySQL
+4. JDBC
+5. Javax servlet API
+6. JSP
+7. JSTL
+8. HTML, CSS
+9. Maven
 
 # <h2>How to start the application</h2>
 You have 2 options run the app:
